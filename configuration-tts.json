@@ -27,7 +27,6 @@ const redisConfig =
 const postgresConfig =
 {
     "Env": [
-        /*change if needed, but you must then update the TTS configuration accordingly*/
         "POSTGRES_PASSWORD=root",     
         "POSTGRES_USER=root",    
         "POSTGRES_DB=ttn_lorawan" 

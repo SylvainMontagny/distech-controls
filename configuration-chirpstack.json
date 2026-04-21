@@ -103,7 +103,7 @@ const noderedConfig = {
 const configUIConfig = {
     "User": "0:0",  
     "Env": [
-        "PASSWORD= "  /*setup your password, syntax: PASSWORD=your_password*/
+        "PASSWORD=root"  
     ],
     "HostConfig": {
         "Binds": [
